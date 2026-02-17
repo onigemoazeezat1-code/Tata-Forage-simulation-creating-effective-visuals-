@@ -1,5 +1,6 @@
 # Tata-Forage-simulation-creating-effective-visuals-
-Creating effective visuals for a CEO and a CMO
+Creating effective visuals for a CEO and a CMO.
+
 In this task, I created the visuals around four of the questions that the CEO and CMO have requested. 
 The questions were:
 Question 1
